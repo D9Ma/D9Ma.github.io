@@ -78,6 +78,7 @@ h3 {
 .offer img {
 	box-sizing: border-box;
 	border: 2px #5f27cd;
+	padding: 65px;
 	text-align: center;
 }
 
