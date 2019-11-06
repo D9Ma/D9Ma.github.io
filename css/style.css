@@ -78,7 +78,7 @@ h3 {
 .man {
 	width: 430px;
 	height: 583px;
-	background: url('../img/man.jpg') no-repeat center top;
+	background: url( '../img/man.jpg' ) no-repeat center top;
 }
 
 .text {
