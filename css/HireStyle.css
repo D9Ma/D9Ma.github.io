@@ -1,13 +1,10 @@
 body {
-	background: #341f97;
-	transition: 0.8s;
+	margin: 0;
+	background-image: url('../img/1.jpg');
+	background-repeat: no-repeat;
+	background-position:center;
 }
 
-h1 {
-	color: #ee5253;
-	font-size: 46px;
-}
-
-h3 {
-	color: #ff9f43;
+#canvas {
+	display: block;
 }
