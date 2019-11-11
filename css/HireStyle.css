@@ -1,8 +1,6 @@
 body {
 	margin: 0;
-	background-image: url('../img/1.jpg');
-	background-repeat: no-repeat;
-	background-position:center;
+	background: #dfe6e9;
 }
 
 #canvas {
