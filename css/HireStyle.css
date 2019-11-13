@@ -67,7 +67,7 @@ body {
 	opacity: 1;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width:800px) {
 	.contact-info{
 		flex-direction: column;
 	}
