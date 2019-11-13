@@ -1,8 +1,40 @@
 body {
-	margin: 0;
-	background: #dfe6e9;
+background-color: #40739e;
+font-size: 20px;
+color:white;
 }
 
-#canvas {
-	display: block;
+.header{
+
+}
+
+.header h1 {
+	font-size: 40px;
+	color: black;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.header p {
+
+}
+
+.header button {
+	background: transparent;
+	color: #fff;
+	border: 3px solid #fff;
+	border-radius: 50px;
+	padding: 0.8rem 2rem;
+	font-size: 24px;
+	outline: none;
+	cursor: pointer;
+	position: relative;
+	transition: 0.2s ease-in-out;
+	letter-spacing: 2px;
+}
+
+.header button:hover {
+	border-radius: 60px;
+	color: gray;
+	border: 2px solid gray;
 }
