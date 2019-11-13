@@ -47,7 +47,7 @@ body {
 	transition: 0.3s linear;
 }
 
-.card-icon:hover{
+.card:hover .card-icon{
 	background: none;
 	color: #ff6348;
 	transform: scale(1.6);
@@ -65,4 +65,16 @@ body {
 .card:hover p {
 	max-height: 40px;
 	opacity: 1;
+}
+
+@media screen and (max-width: 800px) {
+	.contact-info{
+		flex-direction: column;
+	}
+
+	.card {
+		width: 100%;
+		max-width: 300px;
+		margin: 10px 0;
+	}
 }
